@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfOfficer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Officer>
+    <Officer_ID>4</Officer_ID>
+    <Officer_Name>dr,Mohamed</Officer_Name>
+    <num_Assigned_Crimes>1</num_Assigned_Crimes>
+  </Officer>
+</ArrayOfOfficer>

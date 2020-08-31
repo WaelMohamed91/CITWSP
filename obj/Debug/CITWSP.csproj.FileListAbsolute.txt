@@ -1,0 +1,370 @@
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\bin\Debug\CITWSP.exe.config
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\bin\Debug\CITWSP.exe
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\bin\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.Properties.Resources.resources
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.exe
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\bin\Debug\Bunifu_UI_v1.4.dll
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.Admin_Functions.resources
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.Login.resources
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeType.resources
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Officers.resources
+D:\Computer Science\1-matrial\OOP\lectures\CITWSP\CITWSP\obj\Debug\CITWSP.Crimes_Functions.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe.config
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.exe
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.pdb
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.pdb
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Admin_Functions.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Crimes_Functions.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Login.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Properties.Resources.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeType.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Officers.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Officer_Functions.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewinvold.resources
+C:\Users\hp\Downloads\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+D:\2Sc-sem2\File\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe.config
+D:\2Sc-sem2\File\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.exe
+D:\2Sc-sem2\File\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe.config
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.exe
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Admin_Functions.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Crimes_Functions.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Login.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Officer_Functions.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Properties.Resources.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeType.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Officers.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewinvold.resources
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe.config
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.exe
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.pdb
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.pdb
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Admin_Functions.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Crimes_Functions.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Login.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Officer_Functions.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Properties.Resources.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeType.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Officers.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewinvold.resources
+D:\2Sc-sem2\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe.config
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.exe
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.pdb
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.pdb
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Admin_Functions.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Crimes_Functions.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Login.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Officer_Functions.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Properties.Resources.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeType.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Officers.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewinvold.resources
+C:\Users\hp\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+D:\Computer Science\1-matrial\File\Project\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl1_chart.resources
+G:\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe.config
+G:\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe
+G:\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.pdb
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Admin_Functions.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Crimes_Functions.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Login.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Officer_Functions.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Properties.Resources.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl1_chart.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeType.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Officers.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewinvold.resources
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.exe
+G:\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.pdb
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe.config
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.exe
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.pdb
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.exe
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\bin\Debug\CITWSP.pdb
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Admin_Functions.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Crimes_Functions.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Login.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Officer_Functions.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Properties.Resources.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl1_chart.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeType.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_Officers.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.UserControl_viewinvold.resources
+C:\Users\AA\Desktop\CITWSP\CITWSP\CITWSP\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+C:\Users\egypt2\Desktop\CITWSP_NEW\bin\Debug\CITWSP.exe.config
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.exe
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.pdb
+C:\Users\egypt2\Desktop\CITWSP_NEW\bin\Debug\CITWSP.exe
+C:\Users\egypt2\Desktop\CITWSP_NEW\bin\Debug\CITWSP.pdb
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.Admin_Functions.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.Crimes_Functions.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.Login.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.Officer_Functions.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.Properties.Resources.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl1_chart.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeType.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Officers.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewinvold.resources
+C:\Users\egypt2\Desktop\CITWSP_NEW\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\bin\Debug\CITWSP.exe.config
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.exe
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.pdb
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\bin\Debug\CITWSP.exe
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\bin\Debug\CITWSP.pdb
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Admin_Functions.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Crimes_Functions.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Login.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Officer_Functions.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Properties.Resources.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl1_chart.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeType.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Officers.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewinvold.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Form_View.resources
+C:\Users\hp\Downloads\CITWSP_NEW\CITWSP_NEW\obj\Debug\CITWSP.Form_Splash.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\bin\Debug\CITWSP.exe.config
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.exe
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\bin\Debug\CITWSP.exe
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\bin\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\bin\Debug\Bunifu_UI_v1.4.dll
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Admin_Functions.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Crimes_Functions.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_Splash.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_View.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Login.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Officer_Functions.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Properties.Resources.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl1_chart.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeType.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Officers.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewinvold.resources
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+D:\Computer Science\1-matrial\File\Project\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_pic_invol.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.exe.config
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.exe
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Admin_Functions.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Crimes_Functions.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_pic_invol.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_Splash.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_View.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Login.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Officer_Functions.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Properties.Resources.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl1_chart.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeType.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Officers.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewinvold.resources
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.exe
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.pdb
+D:\Computer Science\1-matrial\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.exe.config
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.exe
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.pdb
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.exe
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.pdb
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Admin_Functions.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Crimes_Functions.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_pic_invol.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_Splash.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_View.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Login.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Officer_Functions.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Properties.Resources.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl1_chart.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeType.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Officers.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewinvold.resources
+D:\Computer Science\Three Samesters\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.exe.config
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.exe
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.pdb
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.exe
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\bin\Debug\CITWSP.pdb
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Admin_Functions.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Crimes_Functions.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_pic_invol.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_Splash.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Form_View.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Login.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Officer_Functions.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Properties.Resources.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl1_chart.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeType.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_Officers.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.UserControl_viewinvold.resources
+D:\Computer Science\Two Years\The Second Year\Semaster 2\Done\File\Project\New folder\New folder\CITWSP_NEW\obj\Debug\CITWSP.csproj.GenerateResource.Cache
+E:\Computer Science\My Projects\CITWSP\bin\Debug\CITWSP.exe.config
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.exe
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.pdb
+E:\Computer Science\My Projects\CITWSP\bin\Debug\CITWSP.exe
+E:\Computer Science\My Projects\CITWSP\bin\Debug\CITWSP.pdb
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.csprojResolveAssemblyReference.cache
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Admin_Functions.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Crimes_Functions.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Form_pic_invol.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Form_Splash.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Form_View.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Login.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Officer_Functions.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Properties.Resources.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Resources.UserControl_View_Involved.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewCrime.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.Resources.UserControl_viewinvol.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl1_chart.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_Add_Admin.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_CheckUpdate.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_CrimeAdd.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_CrimeType.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_CrimeUpdate.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_DeleteCrime.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_Involved_Info.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_Officers.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_viewCrimecs.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.UserControl_viewinvold.resources
+E:\Computer Science\My Projects\CITWSP\obj\Debug\CITWSP.csproj.GenerateResource.Cache

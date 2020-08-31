@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{580BDFB6-1945-4EA2-98BC-2F35E39889DC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CITWSP</RootNamespace>
+    <AssemblyName>CITWSP</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.4">
+      <HintPath>..\..\..\..\File\Bunifu_UI_v1.4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs" />
+    <Compile Include="Admin_Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Functions.Designer.cs">
+      <DependentUpon>Admin_Functions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crimes.cs" />
+    <Compile Include="Crimes_Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crimes_Functions.Designer.cs">
+      <DependentUpon>Crimes_Functions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crime_Type.cs" />
+    <Compile Include="Form_pic_invol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_pic_invol.Designer.cs">
+      <DependentUpon>Form_pic_invol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Splash.Designer.cs">
+      <DependentUpon>Form_Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_View.Designer.cs">
+      <DependentUpon>Form_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Involved_people.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Officer.cs" />
+    <Compile Include="Officer_Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Officer_Functions.Designer.cs">
+      <DependentUpon>Officer_Functions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\UserControl_View Involved.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resources\UserControl_View Involved.Designer.cs">
+      <DependentUpon>UserControl_View Involved.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\UserControl_viewCrime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resources\UserControl_viewCrime.Designer.cs">
+      <DependentUpon>UserControl_viewCrime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\UserControl_viewinvol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resources\UserControl_viewinvol.Designer.cs">
+      <DependentUpon>UserControl_viewinvol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_chart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_chart.Designer.cs">
+      <DependentUpon>UserControl1_chart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Add_Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Add_Admin.Designer.cs">
+      <DependentUpon>UserControl_Add_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_CheckUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_CheckUpdate.Designer.cs">
+      <DependentUpon>UserControl_CheckUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_CrimeAdd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_CrimeAdd.Designer.cs">
+      <DependentUpon>UserControl_CrimeAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_CrimeType.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_CrimeType.Designer.cs">
+      <DependentUpon>UserControl_CrimeType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_CrimeUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_CrimeUpdate.Designer.cs">
+      <DependentUpon>UserControl_CrimeUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_DeleteCrime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_DeleteCrime.Designer.cs">
+      <DependentUpon>UserControl_DeleteCrime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Involved_Info.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Involved_Info.Designer.cs">
+      <DependentUpon>UserControl_Involved_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Officers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Officers.Designer.cs">
+      <DependentUpon>UserControl_Officers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_viewCrimecs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_viewCrimecs.Designer.cs">
+      <DependentUpon>UserControl_viewCrimecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_viewinvold.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_viewinvold.Designer.cs">
+      <DependentUpon>UserControl_viewinvold.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin_Functions.resx">
+      <DependentUpon>Admin_Functions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crimes_Functions.resx">
+      <DependentUpon>Crimes_Functions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_pic_invol.resx">
+      <DependentUpon>Form_pic_invol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Splash.resx">
+      <DependentUpon>Form_Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_View.resx">
+      <DependentUpon>Form_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Officer_Functions.resx">
+      <DependentUpon>Officer_Functions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resources\UserControl_View Involved.resx">
+      <DependentUpon>UserControl_View Involved.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\UserControl_viewCrime.resx">
+      <DependentUpon>UserControl_viewCrime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\UserControl_viewinvol.resx">
+      <DependentUpon>UserControl_viewinvol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_chart.resx">
+      <DependentUpon>UserControl1_chart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_Add_Admin.resx">
+      <DependentUpon>UserControl_Add_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_CheckUpdate.resx">
+      <DependentUpon>UserControl_CheckUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_CrimeAdd.resx">
+      <DependentUpon>UserControl_CrimeAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_CrimeType.resx">
+      <DependentUpon>UserControl_CrimeType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_CrimeUpdate.resx">
+      <DependentUpon>UserControl_CrimeUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_DeleteCrime.resx">
+      <DependentUpon>UserControl_DeleteCrime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_Involved_Info.resx">
+      <DependentUpon>UserControl_Involved_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_Officers.resx">
+      <DependentUpon>UserControl_Officers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_viewCrimecs.resx">
+      <DependentUpon>UserControl_viewCrimecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_viewinvold.resx">
+      <DependentUpon>UserControl_viewinvold.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ct-crime-heat-analysis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AdobeStock_85818990-380x253.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\violent-crimes-insert-banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crime.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AdobeStock_85818990-380x2531.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-502.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AdobeStock_85818990-380x2532.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-1505457315458-62417e662cf4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hannah-wei-84051-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\collin-armstrong-195852-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISSUES-CRIME-CUFFS-370x270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police-line %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jacob-morch-357120-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\301441-pijani-i-vooruzheni-mazhi-upadnale-vo-azilantski-dom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\collin-armstrong-195852-unsplash1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISSUES-CRIME-CUFFS-370x2701.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\violent-crimes-insert-banner1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ct-crime-heat-analysis1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISSUES-CRIME-CUFFS-370x2702.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white_prisoner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hannah-wei-84051-unsplash1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crime1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Criminal-Offence.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISSUES-CRIME-CUFFS-370x2703.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\violent-crimes-insert-banner2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\analysis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attachment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worker1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-button %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crime2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\301441-pijani-i-vooruzheni-mazhi-upadnale-vo-azilantski-dom1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISSUES-CRIME-CUFFS-370x2704.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jd-mason-267072-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jd-mason-267072-unsplash1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-and-white-blur-caution-750241.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\collin-armstrong-195852-unsplash2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anonymous-black-and-white-blackmailing-64699.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prison.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police-line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ISSUES-CRIME-CUFFS-370x2705.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beach-fog-men-38442.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city-group-people-270220.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beach-fog-men-384421.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accident-barrier-caution-923681.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-and-white-blur-caution-7502411.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city-group-people-2702201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beach-fog-men-384422.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white_prisoner1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\criminal-wearing-eye-piece-and-striped-top_318-49576.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrows-box-business-533189.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hannah-wei-84051-unsplash2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ct-crime-heat-analysis2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-and-white-blur-caution-7502412.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrows-box-business-5331891.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blur-calligraphy-data-51191.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrows-box-business-5331892.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\garrhet-sampson-178990-unsplash.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

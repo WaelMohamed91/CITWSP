@@ -1,0 +1,45 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace Show_Images_From_Folder1.cs
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string[] Files = Directory.GetFiles(@"D:\project\project\susbicius");
+            DataTable Table = new DataTable();
+            Table.Columns.Add("File Name");
+            for (int i = 0; i < Files.Length; i++)
+            {
+                FileInfo file = new FileInfo(Files[i]);
+                Table.Rows.Add(file.Name);
+            }
+            dataGridView1.DataSource = Table;
+        }
+
+        private void dataGridView1_DoubleClick(object sender, EventArgs e)
+        {
+            Show_Images_From_Folder2 Myform = new Show_Images_From_Folder2();
+            String ImageName = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+            Image images;
+            images = Image.FromFile(@"D:\project\project\susbicius\" + ImageName);
+            Myform.pictureBox1.Image = images;
+            Myform.ShowDialog();
+
+        }
+    }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfCrime_Type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crime_Type>
+    <Type_ID>1</Type_ID>
+    <Type_Name>Murder</Type_Name>
+  </Crime_Type>
+  <Crime_Type>
+    <Type_ID>2</Type_ID>
+    <Type_Name>Rape</Type_Name>
+  </Crime_Type>
+  <Crime_Type>
+    <Type_ID>3</Type_ID>
+    <Type_Name>Forcible</Type_Name>
+  </Crime_Type>
+  <Crime_Type>
+    <Type_ID>4</Type_ID>
+    <Type_Name>Divorse</Type_Name>
+  </Crime_Type>
+  <Crime_Type>
+    <Type_ID>5</Type_ID>
+    <Type_Name>Killing</Type_Name>
+  </Crime_Type>
+  <Crime_Type>
+    <Type_ID>6</Type_ID>
+    <Type_Name>Trade of human organs</Type_Name>
+  </Crime_Type>
+  <Crime_Type>
+    <Type_ID>7</Type_ID>
+    <Type_Name>Theft</Type_Name>
+  </Crime_Type>
+  <Crime_Type>
+    <Type_ID>8</Type_ID>
+    <Type_Name>Violence</Type_Name>
+  </Crime_Type>
+  <Crime_Type>
+    <Type_ID>77</Type_ID>
+    <Type_Name>kkkkk</Type_Name>
+  </Crime_Type>
+</ArrayOfCrime_Type>

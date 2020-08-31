@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfAdmin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Admin>
+    <Admin_ID>5</Admin_ID>
+    <Admin_Name>Wael</Admin_Name>
+  </Admin>
+  <Admin>
+    <Admin_ID>1</Admin_ID>
+    <Admin_Name>Gehad</Admin_Name>
+  </Admin>
+  <Admin>
+    <Admin_ID>2</Admin_ID>
+    <Admin_Name>Nehal</Admin_Name>
+  </Admin>
+  <Admin>
+    <Admin_ID>25</Admin_ID>
+    <Admin_Name>Maha</Admin_Name>
+  </Admin>
+  <Admin>
+    <Admin_ID>4</Admin_ID>
+    <Admin_Name>Donia</Admin_Name>
+  </Admin>
+  <Admin>
+    <Admin_ID>3</Admin_ID>
+    <Admin_Name>leo</Admin_Name>
+  </Admin>
+  <Admin>
+    <Admin_ID>2711</Admin_ID>
+    <Admin_Name>Nada</Admin_Name>
+  </Admin>
+</ArrayOfAdmin>
